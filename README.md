@@ -14,8 +14,11 @@ Features
 
 Screenshots
 
-| Splash Screen | Main Screen | Detailed List |
-|  <img width="289" height="560" alt="image" src="https://github.com/user-attachments/assets/88aecc49-9c34-4c18-9084-aad32dd330c1" />
+| Picture 1:Splash Screen |Picture 2: Main Screen |Picture 3: Detailed List |
+
+
+|  <img width="289" height="560" alt="image" src="https://github.com/user-attachments/assets/88aecc49-9c34-4c18-9084-aad32dd330c1" />|<img width="243" height="454" alt="image" src="https://github.com/user-attachments/assets/ff784cb4-fbeb-462d-bce6-fa6256f54b25" />
+
 |  |<img width="234" height="402" alt="image" src="https://github.com/user-attachments/assets/965e891d-a5f9-4f1a-b6d0-2ecea445d9c5" />
  |
 
