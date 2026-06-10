@@ -17,7 +17,7 @@ Screenshots
 | Splash Screen | Main Screen | Detailed List |
 | ![Splash Screen](screenshots/splash.png) | ![Main Screen](screenshots/main.png) | ![Detailed List](screenshots/detailed.png) |
 
-🛠️ Technical Implementation
+ Technical Implementation
 
 This project was built to satisfy a specific set of academic requirements, demonstrating proficiency in core Android development concepts.
 
